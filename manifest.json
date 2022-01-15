@@ -4,14 +4,14 @@
   "name": "Beomelocal",
   "short_name": "Becomelocal",
   "icons": [{
-    "src": "images/logo/icon-app-sm.png",
+    "src": "https://raw.githubusercontent.com/janafalk/becomelocal/fb3eb1afa6107e322ad16300af21ff95ce2571b9/icon-app-sm.png",
     "sizes": "64x64",
     "type": "image/png"
   }, {
-    "src": "images/logo/icon-app-sm.png",
+    "src": "https://raw.githubusercontent.com/janafalk/becomelocal/fb3eb1afa6107e322ad16300af21ff95ce2571b9/icon-app-sm.png",
     "sizes": "64x64"
   }, {
-    "src": "images/logo/icon-app-manifest.png",
+    "src": "https://raw.githubusercontent.com/janafalk/becomelocal/fb3eb1afa6107e322ad16300af21ff95ce2571b9/icon-app-manifest.png",
     "sizes": "512x512"
   }],
   "scope": "/",
