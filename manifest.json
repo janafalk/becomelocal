@@ -1,8 +1,8 @@
 {
   "lang": "en",
   "dir": "ltr",
-  "name": "Beomelocal",
-  "short_name": "Becomelocal",
+  "name": "RelocateYOU",
+  "short_name": "RelocateYOU by Becomelocal",
   "icons": [{
     "src": "https://raw.githubusercontent.com/janafalk/becomelocal/fb3eb1afa6107e322ad16300af21ff95ce2571b9/icon-app-sm.png",
     "sizes": "64x64",
@@ -15,10 +15,10 @@
     "sizes": "512x512"
   }],
   "scope": "/",
-  "id": "superracer",
+  "id": "relocateyou",
   "start_url": "/start.html",
   "display": "fullscreen",
   "orientation": "landscape",
-  "theme_color": "aliceblue",
+  "theme_color": "#236fe8",
   "background_color": "#236fe8"
 }
