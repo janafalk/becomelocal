@@ -1,0 +1,24 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Beomelocal",
+  "short_name": "Becomelocal",
+  "icons": [{
+    "src": "images/logo/icon-app-sm.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  }, {
+    "src": "images/logo/icon-app-sm.png",
+    "sizes": "64x64"
+  }, {
+    "src": "images/logo/icon-app-manifest.png",
+    "sizes": "512x512"
+  }],
+  "scope": "/",
+  "id": "superracer",
+  "start_url": "/start.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "aliceblue",
+  "background_color": "#236fe8"
+}
